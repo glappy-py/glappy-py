@@ -1,5 +1,5 @@
 # Myself <a href='https://github.com/glappy-py'>Satwik Verma</a>👋!
-<h2>Also known as GLAPPY! Checkout my <a target = "_blank" href = "projectsofglappy.tk">portfolio</a></h2>
+<h2>Also known as GLAPPY! Checkout my <a target = "_blank" href = "https://projectsofglappy.tk/">portfolio</a></h2>
 
 <ul>
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
