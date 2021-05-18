@@ -4,7 +4,7 @@
 <ul>
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
   <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
-  <li>Studies in 9th grade and a JEE aspirant!📚</li>
+  <li>Studies in 10th grade and a JEE aspirant!📚</li>
 
 </ul>
 
