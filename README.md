@@ -3,7 +3,7 @@
 
 <ul>
 <li>Self taught Programmer💻and Tech Geek👨‍💻! </li>
-  <li>Currently learning and practicing <a target="_blank" href='https://reactjs.org/'>ReactJS</a>!🕸</li>
+  <li>Currently learning and practicing <a target="_blank" href='https://dotnet.microsoft.com/apps/aspnet'>ASP.NET</a>!🕸</li>
   <li>Studies in 10th grade and a JEE aspirant!📚</li>
 
 </ul>
@@ -12,11 +12,9 @@
 <details >
 <summary>I've learned these languages : </summary>
 <ul>
-  <li>Java</li>
   <li>Python</li>
   <li>JavaScript</li>
   <li>C#</li>
-  <li>Everyone learns HTML and CSS 🤣</li>
 </ul>
   </details>
   <details >
@@ -24,21 +22,23 @@
 <ul>
   <li>Flutter</li>
   <li>Android Native</li>
-  <li>JQuery</li>
-  <li>React</li>
-  <li>Unity</li>
-  <li>Unreal Engine</li>
+  <li>React native</li>
+  <li>ReactJS</li>
+  <li>UnityEngine</li>
+  <li>Svelte</li>
+  <li>Flask</li>
+  <li>ExpressJS</li>
+  <li>C#.net</li>
+  <li>asp.net</li>
 </ul></details>
-
-I use <a target="_blank" href='https://firebase.google.com/'>Firebase</a>🔥 for Online Databases !<hr/>
-### Feel free to connect!💃
+### Feel free to connect!
   <a target="_blank" href='https://www.instagram.com/glappyverma/'>
     <img src='img/insta.png' align='left' width='40px'>
   </a>
 <br/>
 <br>
 <h4>Weapons of Choice ⚔🏹</h4>
-IntelliJ, VSCode , Visual Studio and Android Studio!
+VSCode and MarioCLI
 <hr>
 
 [![GLAPPY's GitHub stats](https://github-readme-stats.vercel.app/api?username=glappy-py&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
