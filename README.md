@@ -31,10 +31,6 @@
   <li>C#.net</li>
   <li>asp.net</li>
 </ul></details>
-### Feel free to connect!
-  <a target="_blank" href='https://www.instagram.com/glappyverma/'>
-    <img src='img/insta.png' align='left' width='40px'>
-  </a>
 <br/>
 <br>
 <h4>Weapons of Choice ⚔🏹</h4>
